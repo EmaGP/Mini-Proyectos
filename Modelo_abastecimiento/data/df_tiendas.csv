@@ -1,0 +1,274 @@
+id_tienda,distrito,region
+5-000,Comas,Lima
+7-0000,Callao,Callao
+8-000000,Comas,Lima
+2-2100,Santiago de Surco,Lima
+2-2101,Miraflores,Lima
+2-2104,Santiago de Surco,Lima
+2-2105,San Isidro,Lima
+2-2106,San Isidro,Lima
+2-2107,Santiago de Surco,Lima
+2-2108,Miraflores,Lima
+2-2109,Santiago de Surco,Lima
+2-2110,San Isidro,Lima
+2-2111,Miraflores,Lima
+2-2113,Santiago de Surco,Lima
+2-2114,Jesús María,Lima
+2-2115,Independencia,Lima
+2-2116,Bellavista,Callao
+2-2118,Ate,Lima
+2-2119,Callao,Callao
+2-2121,Chiclayo,Chiclayo
+2-2122,Asia,Cañete
+2-2123,Santiago de Surco,Lima
+2-2130,Trujillo,Trujillo
+2-2132,Miraflores,Lima
+2-2133,San Isidro,Lima
+2-2135,Bellavista,Callao
+2-2138,La Molina,Lima
+2-2142,Trujillo,Trujillo
+2-2143,Lima,Lima
+2-2148,Cayma,Arequipa
+2-2149,Paucarpata,Arequipa
+2-2150,Ate,Lima
+2-2154,Paucarpata,Arequipa
+2-2157,Independencia,Lima
+2-2158,Independencia,Lima
+2-2159,San Borja,Lima
+2-2160,Pueblo Libre,Lima
+2-2162,Tacna,Tacna
+2-2164,Juliaca,San Román
+2-2166,Chorrillos,Lima
+2-2175,Comas,Lima
+2-2182,Puno,Puno
+2-2192,Ate,Lima
+2-2195,Lima,Lima
+2-2198,Huancayo,Huancayo
+2-2199,Chorrillos,Lima
+2-2200,San Borja,Lima
+2-2201,San Borja,Lima
+2-2202,Chorrillos,Lima
+2-2204,San Miguel,Lima
+2-2205,La Victoria,Lima
+2-2207,Ica,Ica
+2-2208,Piura,Piura
+2-2209,Huánuco,Huánuco
+2-2210,Cayma,Arequipa
+2-2211,Magdalena del Mar,Lima
+2-2213,La Molina,Lima
+2-2221,Cusco,Cusco
+2-2223,"",""
+2-2225,Jesús María,Lima
+2-2227,San Borja,Lima
+2-2228,"",Coronel Portillo
+2-2231,San Juan de Miraflores,Lima
+2-2235,San Miguel,Lima
+2-2237,Ate,Lima
+2-2256,Chiclayo,Chiclayo
+2-2257,San Miguel,Lima
+2-2263,Surquillo,Lima
+2-2264,Pueblo Libre,Lima
+2-2269,Comas,Lima
+2-2271,Santiago de Surco,Lima
+2-2273,La Molina,Lima
+5-3100,Santiago de Surco,Lima
+5-3101,Miraflores,Lima
+5-3102,San Isidro,Lima
+5-3103,San Borja,Lima
+5-3104,Cayma,Arequipa
+5-3105,La Victoria,Lima
+5-3107,Chiclayo,Chiclayo
+5-3108,Independencia,Lima
+5-3109,San Juan de Miraflores,Lima
+5-3110,Miraflores,Lima
+5-3111,Miraflores,Lima
+5-3112,Trujillo,Trujillo
+5-3114,Callao,Callao
+5-3115,Bellavista,Callao
+5-3116,Lima,Lima
+5-3117,Independencia,Lima
+5-3118,Ica,Ica
+5-3119,Chorrillos,Lima
+5-3120,Huancayo,Huancayo
+5-3121,Ate,Lima
+5-3122,Arequipa,Arequipa
+5-3123,Surquillo,Lima
+5-3124,Cayma,Arequipa
+5-3125,Paucarpata,Arequipa
+5-3126,Castilla,Piura
+5-3127,Juliaca,San Román
+5-3128,Santa Anita,Lima
+5-3129,Comas,Lima
+5-3133,San Borja,Lima
+5-313300,Chimbote,Santa
+5-3135,Tacna,Tacna
+5-3136,Ica,Ica
+5-3137,Piura,Piura
+5-3138,Huánuco,Huánuco
+5-3141,Cusco,Cusco
+5-3142,Cajamarca,Cajamarca
+5-3143,Jesús María,Lima
+5-3144,"",Coronel Portillo
+5-3146,Callao,Callao
+5-3147,Trujillo,Trujillo
+5-3148,Trujillo,Trujillo
+5-3150,Magdalena del Mar,Lima
+5-3151,Jesús María,Lima
+5-3153,Ate,Lima
+5-3155,Chiclayo,Chiclayo
+5-3156,San Miguel,Lima
+5-3157,Surquillo,Lima
+5-401,Ate,Lima
+3-4100,Independencia,Lima
+3-4101,Los Olivos,Lima
+3-4102,Miraflores,Lima
+3-4104,San Miguel,Lima
+3-4107,Santiago de Surco,Lima
+3-4110,Trujillo,Trujillo
+3-4111,Cusco,Cusco
+3-4112,Piura,Piura
+3-4115,Miraflores,Lima
+3-4117,Jesús María,Lima
+3-4119,Bellavista,Callao
+3-4120,Ate,Lima
+4-5100,Lima,Lima
+4-5101,Los Olivos,Lima
+4-5102,Chorrillos,Lima
+4-5104,San Miguel,Lima
+4-5105,La Victoria,Lima
+4-5107,Huancayo,Huancayo
+4-5109,Magdalena del Mar,Lima
+4-5110,Chiclayo,Chiclayo
+4-5111,Cusco,Cusco
+4-5113,Miraflores,Lima
+4-5114,Jesús María,Lima
+4-5115,Callao,Callao
+4-5116,San Juan de Miraflores,Lima
+4-5117,Independencia,Lima
+4-5118,Trujillo,Trujillo
+4-5119,Cayma,Arequipa
+4-5120,San Borja,Lima
+4-5122,Cerro Colorado,Arequipa
+4-5123,Chorrillos,Lima
+4-5124,Huancayo,Huancayo
+4-5126,Ate,Lima
+4-5127,Santiago de Surco,Lima
+4-5128,El Tambo,Huancayo
+4-5129,Comas,Lima
+4-5130,Puente Piedra,Lima
+4-5131,San Miguel,Lima
+4-5135,Lince,Lima
+4-5137,Cusco,Cusco
+4-5138,Villa María del Triunfo,Lima
+4-5139,Santiago de Surco,Lima
+4-5140,Santa Anita,Lima
+4-5141,Callao,Callao
+4-5555,San Miguel,Lima
+4-55555,Puente Piedra,Lima
+5-61,Ate,Lima
+8-6100,Miraflores,Lima
+8-6101,Santiago de Surco,Lima
+8-6104,San Isidro,Lima
+8-6105,Miraflores,Lima
+8-6106,San Miguel,Lima
+8-6108,San Borja,Lima
+8-6109,San Miguel,Lima
+8-6110,Lima,Lima
+8-6111,Chorrillos,Lima
+8-6112,Independencia,Lima
+8-6114,Santiago de Surco,Lima
+8-6115,Independencia,Lima
+8-6116,La Molina,Lima
+8-6117,Miraflores,Lima
+8-6118,Lima,Lima
+8-6119,San Borja,Lima
+8-6122,Magdalena del Mar,Lima
+8-6123,Independencia,Lima
+8-6124,La Molina,Lima
+8-6126,San Juan de Lurigancho,Lima
+8-6127,Ate,Lima
+8-6129,Jesús María,Lima
+8-6130,San Borja,Lima
+8-6131,Callao,Callao
+8-6132,Surquillo,Lima
+8-6137,San Miguel,Lima
+8-6141,Miraflores,Lima
+8-6142,Jesús María,Lima
+8-6144,Cayma,Arequipa
+8-6146,San Isidro,Lima
+8-6147,Barranco,Lima
+8-6148,Chorrillos,Lima
+8-6149,Barranco,Lima
+8-6150,Santiago de Surco,Lima
+8-6151,Santiago de Surco,Lima
+8-6153,Miraflores,Lima
+8-6155,Miraflores,Lima
+8-6158,Trujillo,Trujillo
+8-6159,San Juan de Miraflores,Lima
+8-6164,Callao,Callao
+8-6166,Santiago de Surco,Lima
+8-6167,La Victoria,Lima
+8-6168,Paucarpata,Arequipa
+8-6169,Santiago de Surco,Lima
+8-6170,Lima,Lima
+8-6173,Ate,Lima
+8-6175,San Miguel,Lima
+8-6176,Comas,Lima
+8-6182,Santa Anita,Lima
+8-6183,Breña,Lima
+8-6184,Los Olivos,Lima
+8-6186,Bellavista,Callao
+8-6187,Lurín,Lima
+8-6188,Lince,Lima
+7-7100,Miraflores,Lima
+7-7101,Jesús María,Lima
+7-7102,La Molina,Lima
+7-7105,Miraflores,Lima
+7-7106,Lima,Lima
+7-7107,Santiago de Surco,Lima
+7-7108,La Molina,Lima
+7-7110,Trujillo,Trujillo
+7-7111,San Miguel,Lima
+7-7112,San Miguel,Lima
+7-7113,Bellavista,Callao
+7-7114,Los Olivos,Lima
+7-7115,Independencia,Lima
+7-7116,San Borja,Lima
+7-7117,La Victoria,Lima
+7-7118,Chorrillos,Lima
+7-7119,San Juan de Miraflores,Lima
+7-7120,Ica,Ica
+7-7121,Cerro Colorado,Arequipa
+7-7123,Cusco,Cusco
+7-7124,Piura,Piura
+7-7125,Lima,Lima
+7-7126,Cayma,Arequipa
+7-7127,Pueblo Libre,Lima
+7-7128,Barranco,Lima
+7-7129,Santiago de Surco,Lima
+7-7130,Miraflores,Lima
+7-7131,San Juan de Miraflores,Lima
+7-7132,Magdalena del Mar,Lima
+7-7133,Jesús María,Lima
+7-7134,Trujillo,Trujillo
+7-7135,La Molina,Lima
+7-7136,Lima,Lima
+7-7137,Lince,Lima
+7-7138,San Isidro,Lima
+7-7141,Santiago de Surco,Lima
+7-7144,San Juan de Lurigancho,Lima
+7-7145,Los Olivos,Lima
+7-7146,Santiago de Surco,Lima
+7-7147,Ate,Lima
+7-7148,Los Olivos,Lima
+7-7151,Ate,Lima
+7-7152,San Borja,Lima
+7-7153,San Miguel,Lima
+7-7155,Comas,Lima
+7-7156,Chiclayo,Chiclayo
+7-7157,San Miguel,Lima
+7-7159,Santiago de Surco,Lima
+7-7160,Paucarpata,Arequipa
+7-7161,Callao,Callao
+7-7162,Santa Anita,Lima
+7-7163,Callao,Callao
